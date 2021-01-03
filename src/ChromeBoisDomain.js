@@ -38,7 +38,7 @@ export default class ChromeBoisDomain extends Component {
     else if (event.key === 's') {
       resize('-')
     }
-  
+  }
   render() {
     return (
       <canvas 
